@@ -1,0 +1,31 @@
+,0
+ATP,C00002
+NAD+,C00003
+NADH,C00004
+NADPH,C00005
+NADP+,C00006
+Oxygen,C00007
+ADP,C00008
+CO2,C00011
+Pyruvate,C00022
+Acetyl-CoA,C00024
+2-Oxoglutarate,C00026
+Oxaloacetate,C00036
+Succinate,C00042
+Phosphoenolpyruvate,C00074
+Succinyl-CoA,C00091
+Glycerone phosphate,C00111
+D-Glyceraldehyde 3-phosphate,C00118
+Fumarate,C00122
+(S)-Malate,C00149
+Citrate,C00158
+3-Phospho-D-glycerate,C00197
+3-Phospho-D-glyceroyl phosphate,C00236
+alpha-D-Glucos,C00267
+Isocitrate,C00311
+cis-Aconitate,C00417
+2-Phospho-D-glycerate,C00631
+alpha-D-Glucose 6-phosphat,C00668
+beta-D-Fructose 6-phosphat,C05345
+"beta-D-Fructose 1,6-bisphosphat",C05378
+Oxalosuccinate,C05379
