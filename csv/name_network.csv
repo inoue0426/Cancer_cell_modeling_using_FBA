@@ -1,0 +1,64 @@
+,RNum,CNum,Compounds,Reaction
+0,R01512,C00002,Succinate,succinyl-CoA:acetate CoA-transferase
+1,R01512,C00008,ADP,succinyl-CoA:acetate CoA-transferase
+2,R01512,C00197,alpha-D-Glucose 6-phosphate,succinyl-CoA:acetate CoA-transferase
+3,R01512,C00236,3-Phospho-D-glycerate,succinyl-CoA:acetate CoA-transferase
+4,R04779,C00002,Succinate,ATP:D-fructose-6-phosphate 1-phosphotransferase
+5,R04779,C00008,ADP,ATP:D-fructose-6-phosphate 1-phosphotransferase
+6,R04779,C05345,ATP,ATP:D-fructose-6-phosphate 1-phosphotransferase
+7,R04779,C05378,Reduced ferredoxin,ATP:D-fructose-6-phosphate 1-phosphotransferase
+8,R01786,C00002,Succinate,"beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase"
+9,R01786,C00008,ADP,"beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase"
+10,R01786,C00267,"beta-D-Fructose 1,6-bisphosphate","beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase"
+11,R01786,C00668,NAD,"beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase"
+12,R01061,C00003,CO2,isocitrate hydro-lyase
+13,R01061,C00004,2-Oxoglutarate,isocitrate hydro-lyase
+14,R01061,C00118,NADPH,isocitrate hydro-lyase
+15,R01061,C00236,3-Phospho-D-glycerate,isocitrate hydro-lyase
+16,R00342,C00003,CO2,ATP:3-phospho-D-glycerate 1-phosphotransferase
+17,R00342,C00004,2-Oxoglutarate,ATP:3-phospho-D-glycerate 1-phosphotransferase
+18,R00342,C00036,Glycerone phosphate,ATP:3-phospho-D-glycerate 1-phosphotransferase
+19,R00342,C00149,cis-Aconitate,ATP:3-phospho-D-glycerate 1-phosphotransferase
+20,R01899,C00005,Oxidized ferredoxin,pyruvate:ferredoxin 2-oxidoreductase
+21,R01899,C00006,3-Phospho-D-glyceroyl phosphate,pyruvate:ferredoxin 2-oxidoreductase
+22,R01899,C00311,NADP,pyruvate:ferredoxin 2-oxidoreductase
+23,R01899,C05379,Succinyl-CoA,pyruvate:ferredoxin 2-oxidoreductase
+24,R01197,C00010,Phosphoenolpyruvate,oxalosuccinate carboxy-lyase
+25,R01197,C00011,Isocitrate,oxalosuccinate carboxy-lyase
+26,R01197,C00026,alpha-D-Glucose,oxalosuccinate carboxy-lyase
+27,R01197,C00091,Malic acid,oxalosuccinate carboxy-lyase
+28,R01197,C00138,Oxaloacetate,oxalosuccinate carboxy-lyase
+29,R01197,C00139,Oxalosuccinate,oxalosuccinate carboxy-lyase
+30,R01196,C00010,Phosphoenolpyruvate,alpha-D-Glucose 6-phosphate ketol-isomerase
+31,R01196,C00011,Isocitrate,alpha-D-Glucose 6-phosphate ketol-isomerase
+32,R01196,C00022,beta-D-Fructose 6-phosphate,alpha-D-Glucose 6-phosphate ketol-isomerase
+33,R01196,C00024,Citrate,alpha-D-Glucose 6-phosphate ketol-isomerase
+34,R01196,C00138,Oxaloacetate,alpha-D-Glucose 6-phosphate ketol-isomerase
+35,R01196,C00139,Oxalosuccinate,alpha-D-Glucose 6-phosphate ketol-isomerase
+36,R00351,C00010,Phosphoenolpyruvate,"D-phosphoglycerate 2,3-phosphomutase"
+37,R00351,C00024,Citrate,"D-phosphoglycerate 2,3-phosphomutase"
+38,R00351,C00036,Glycerone phosphate,"D-phosphoglycerate 2,3-phosphomutase"
+39,R00351,C00158,Pyruvate,"D-phosphoglycerate 2,3-phosphomutase"
+40,R00268,C00011,Isocitrate,D-glyceraldehyde-3-phosphate aldose-ketose-isomerase
+41,R00268,C00026,alpha-D-Glucose,D-glyceraldehyde-3-phosphate aldose-ketose-isomerase
+42,R00268,C05379,Succinyl-CoA,D-glyceraldehyde-3-phosphate aldose-ketose-isomerase
+43,R10343,C00024,Citrate,2-oxoglutarate:ferredoxin oxidoreductase
+44,R10343,C00042,D-Glyceraldehyde 3-phosphate,2-oxoglutarate:ferredoxin oxidoreductase
+45,R10343,C00091,Malic acid,2-oxoglutarate:ferredoxin oxidoreductase
+46,R00361,C00036,Glycerone phosphate,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase
+47,R00361,C00149,cis-Aconitate,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase
+48,R00658,C00074,2-Phospho-D-glycerate,ATP:alpha-D-glucose 6-phosphotransferase
+49,R00658,C00631,NADH,ATP:alpha-D-glucose 6-phosphotransferase
+50,R01015,C00111,Acetyl-CoA,(S)-malate:NAD+ oxidoreductase
+51,R01015,C00118,NADPH,(S)-malate:NAD+ oxidoreductase
+52,R01070,C00111,Acetyl-CoA,acetyl-CoA:oxaloacetate C-acetyltransferase
+53,R01070,C00118,NADPH,acetyl-CoA:oxaloacetate C-acetyltransferase
+54,R01070,C05378,Reduced ferredoxin,acetyl-CoA:oxaloacetate C-acetyltransferase
+55,R01325,C00158,Pyruvate,citrate hydro-lyase
+56,R01325,C00417,CoA,citrate hydro-lyase
+57,R01518,C00197,alpha-D-Glucose 6-phosphate,Isocitrate:NADP+ oxidoreductase
+58,R01518,C00631,NADH,Isocitrate:NADP+ oxidoreductase
+59,R01900,C00311,NADP,(S)-malate:quinone oxidoreductase
+60,R01900,C00417,CoA,(S)-malate:quinone oxidoreductase
+61,R02740,C00668,NAD,2-phospho-D-glycerate hydro-lyase
+62,R02740,C05345,ATP,2-phospho-D-glycerate hydro-lyase
