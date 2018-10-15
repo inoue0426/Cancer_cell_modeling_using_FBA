@@ -1,0 +1,15 @@
+,Alanine,Arginine,Asparagine,Aspartate,Cysteine,Glutamate,Glutamine,Glycine,Histidine,isoleucine,Leucine,Lysine,Methionine,Phenylalanine,Proline,Serine,Threonine,Tryptophan,Tyrosine,Valine
+0,Pyruvate,αKG,Oxaloaccetate,Oxaloaccetate,3PG,αKG,αKG,3PG,PRPP,Oxaloaccetate,2 Pyruvate,Oxaloaccetate,Oxaloaccetate,2 PEP,αKG,3PG,Oxaloaccetate,2 PEP,2 PEP,2 Pyruvate
+1,NADP,Acetyl-CoA,NADP,NADP,NAD,NADP,ATP,NAD,4 ATP,Pyruvate,Acetyl-CoA,ATP,ATP,E4P,ATP,NAD,2 ATP,E4P,E4P,
+2,,Oxaloaccetate,ATP,,NADP,,NADP,NADP,NADP,,NAD,2 NADPH,Succinyl-CoA,ATP,NADPH,NADP,2 NADPH,ADP,2 ATP,
+3,,5 ATP,,,Acetyl-CoA,,,,2 NAD,,,Succinyl-CoA,3PG,,,,,3PG,NAD,
+4,,2 NADP,,,,,,,CoA,,,Pyruvate,NAD,,,,,PRPP,,
+5,,,,,,,,,Pyruvate,,,,Acetyl-CoA,,,,,NAD,,
+0,Alanine,2 NADPH,Asparagine,Aapartate,NADH,Glutamate,Glutamine,NADH,Histidine,Isoleucine,CoA,2 NADP,ADP,CO2,ADP,NADH,2 NADP,ATP,Tyrosine,Valine
+1,NADPH,CoA,ADP,NADPH,NADPH,NADPH,ADP,Glycine,4 ADP,CO2,NADH,ADP,NADP,H2O,NADP,Serine,2 ADP,Pyruvate,NADH,CO2
+2,,accetate,NADPH,,Cysteine,,NADPH,NADPH,2 NADH,,Leucine,Lysine,2 CoA,Phenylalanine,Proline,NADPH,Threonine,PPi,CO2,
+3,,AMP,,,accetate,,,,Acetyl-CoA,,,CO2,Succinate,,,,,CO2,,
+4,,Fumarate,,,CoA,,,,NADPH,,,Succinate,Pyruvate,,,,,G3P,,
+5,,Arginine,,,,,,,,,,CoA,Methionine,,,,,Trp,,
+6,,,,,,,,,,,,,NADH,,,,,NADH,,
+7,,,,,,,,,,,,,accetate,,,,,H+ ,,
